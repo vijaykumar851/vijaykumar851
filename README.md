@@ -58,13 +58,13 @@
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chandrabose165&show_icons=true&theme=tokyolight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijaykumar851&show_icons=true&theme=tokyolight&hide_border=true"
   />
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chandrabose165&layout=compact&theme=tokyolight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vijaykumar851&layout=compact&theme=tokyolight&hide_border=true"
   />
 </p>  
 
 ## Streak
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrabose165&" alt="chandrabose165" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumar851&" alt="chandrabose165" /></p>
