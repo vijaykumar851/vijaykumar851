@@ -20,7 +20,7 @@
 </a>
 </p>
 <p>
-<a href=""https://www.linkedin.com/in/vijaykumarmajeti" style="margin-left:15">
+<a href=""https://www.linkedin.com/in/vijaykumarmajeti/" style="margin-left:15">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
