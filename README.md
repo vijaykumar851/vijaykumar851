@@ -5,8 +5,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=Fresher;Java+Full+Stack+Developer;React+Developer;Java+developer;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG"/>
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrabose165&label=Profile%20views&color=0e75b6&style=flat" alt="chandrabose165" /> </p>
-<img align="right" alt="coding" width="500px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrabose165&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykumar851" /> </p>
+<img align="right" alt="coding" width="500px" height="300px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🔭 I’m Recently Complete my Graduation  in  **Malla Reddy university**
 
@@ -30,13 +30,13 @@
   </a>
 </p>
 
-
 ## Email ID
 <a href="mailto:majetivijaykumar2005@gmail.com">
-<img  style="background-color:white" src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img  style="background-color:white" src="https://skillicons.dev/icons?i=gmail" height="45" target="_blank"/>
 </a>
 
 ## Connect Me
+<br>
 <div align="left">
   <a href="https://www.linkedin.com/in/vijaykumarmajeti"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" target="_blank" /></a>
   <a href="https://discord.gg/vijaykumar6384"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
