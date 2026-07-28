@@ -32,14 +32,14 @@
 
 
 ## Email ID
-<a href="mailto:varisachandrabose20@gmail.com">
+<a href="mailto:majetivijaykumar2005@gmail.com">
 <img  style="background-color:white" src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 ## Connect Me
 <div align="left">
-  <a href="https://www.linkedin.com/in/varisachandrabose"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" target="_blank" /></a>
-  <a href="https://discord.gg/hhVyPjJC"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
+  <a href="https://www.linkedin.com/in/vijaykumarmajeti"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" target="_blank" /></a>
+  <a href="https://discord.gg/vijaykumar6384"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
 </div>
 
 # 🚀 Featured Projects
