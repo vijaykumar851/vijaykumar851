@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Majeti Vijay Kumar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header" width="100%" />
+</p>
+
+<h1 align="center"> I'm Majeti Vijay Kumar</h1>
 <p align="center">
   
   <a href="https://git.io/typing-svg">
@@ -68,3 +72,8 @@
 
 ## Streak
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumar851&" alt="chandrabose165" /></p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
