@@ -15,12 +15,12 @@
 - 📞 contact on mobile **7780349215**
  
 <p>
-<a href="https://chandrabosevarisa.vercel.app" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
 <p>
-<a href=""https://www.linkedin.com/in/vijaykumarmajeti/" style="margin-left:15">
+<a href="https://www.linkedin.com/in/vijaykumarmajeti/" style="margin-left:15">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
