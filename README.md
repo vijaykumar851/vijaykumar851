@@ -69,8 +69,12 @@
 </p>  
 
 ## Streak
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumar851&" alt="streak" /></p>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=vijaykumar851&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
