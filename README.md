@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello&fontColor=000000&height=100&section=header" width="100%" />
 </p>
 
 <h1 align="center"> I'm Majeti Vijay Kumar</h1>
@@ -35,9 +35,7 @@
 </p>
 
 ## Email ID
-<a href="mailto:majetivijaykumar2005@gmail.com">
-<img  style="background-color:white" src="https://skillicons.dev/icons?i=gmail" height="45" target="_blank"/>
-</a>
+<h3>majetivijaykumar2005@gmail.com</h3>
 
 ## Connect Me
 <br>
@@ -71,7 +69,7 @@
 </p>  
 
 ## Streak
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumar851&" alt="chandrabose165" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumar851&" alt="streak" /></p>
 
 
 <p align="center">
