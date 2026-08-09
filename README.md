@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrabose165&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykumar851" /> </p>
 <img align="right" alt="coding" width="500px" height="300px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🔭 I’m Recently Complete my Graduation  in  **Malla Reddy university**
+- 🔭 I’m Recently Complete my Graduation  in  **Malla Reddy university.**
 
 - 🌱 I’m currently learning **MERN_AI, JAVA**
 
