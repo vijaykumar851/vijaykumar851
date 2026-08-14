@@ -14,9 +14,9 @@
 
 - 🔭 I’m Recently Complete my Graduation  in  **Malla Reddy university.**
 
-- 🌱 I’m currently learning **MERN_AI, JAVA**
+- 🌱 I’m currently learning **MERN_AI, JAVA.**
 
-- 📞 contact on mobile **7780349215**
+- 📞 contact on mobile **7780349215.**
  
 <p>
 <a href="" target="_blank">
